@@ -1,4 +1,4 @@
-let base = "https://onlineide.openpatch.org/include/";
+let base = "https://onlineide.openpatch.org/";
 // includeJs(base + "lib/pixijs/pixi.js");
 // includeCss(base + 'js.webpack/javaOnlineEmbedded.css');
 // includeJs(base + "lib/jquery/jquery-3.3.1.js");
