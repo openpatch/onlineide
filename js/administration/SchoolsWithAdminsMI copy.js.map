@@ -1,0 +1,1 @@
+{"version":3,"file":"SchoolsWithAdminsMI copy.js","sourceRoot":"","sources":["../../../src/client/administration/SchoolsWithAdminsMI copy.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,oBAAoB,CAAC;AAGnD,MAAM,OAAO,mBAAoB,SAAQ,aAAa;IAElD,eAAe,CAAC,IAAc;QAC1B,OAAO,IAAI,CAAC,QAAQ,CAAC;IACzB,CAAC;IAED,mBAAmB;QACf,OAAO,6BAA6B,CAAC;IACzC,CAAC;IAED,mBAAmB;IAEnB,CAAC;CAGJ"}

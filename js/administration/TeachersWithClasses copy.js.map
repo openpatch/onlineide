@@ -1,0 +1,1 @@
+{"version":3,"file":"TeachersWithClasses copy.js","sourceRoot":"","sources":["../../../src/client/administration/TeachersWithClasses copy.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,oBAAoB,CAAC;AAGnD,MAAM,OAAO,qBAAsB,SAAQ,aAAa;IAEpD,eAAe,CAAC,IAAc;QAC1B,OAAO,IAAI,CAAC,cAAc,CAAC;IAC/B,CAAC;IAED,mBAAmB;QACf,OAAO,wBAAwB,CAAC;IACpC,CAAC;IAED,mBAAmB;IAEnB,CAAC;CAGJ"}

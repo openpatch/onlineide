@@ -1,0 +1,1 @@
+{"version":3,"file":"ObjectElement.js","sourceRoot":"","sources":["../../../../../../src/client/main/gui/diagrams/objectdiagram/ObjectElement.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,sBAAsB,CAAC;AAItD,MAAM,OAAO,aAAc,SAAQ,cAAc;IAE7C,YAAmB,OAAsB,EAAS,KAAY;QAC1D,KAAK,CAAC,OAAO,CAAC,UAAU,CAAC,CAAC;QADX,YAAO,GAAP,OAAO,CAAe;QAAS,UAAK,GAAL,KAAK,CAAO;IAE9D,CAAC;CAGJ"}
